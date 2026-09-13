@@ -14,7 +14,8 @@ theme_composite_tool render preview_comp_assets/showcase_03.json --bottom-center
 ```
 
 This puts Cliamp in the center, OpenCode in the expanded lower-center sector,
-and `screenshot-2026-09-13_09-12-55.png` in top-left sector 10. The footer is
+and `screenshot-2026-09-13_10-19-52.png` in top-left sector 10, preserving
+the screenshot's built-in outer padding without cropping. The footer is
 hidden. The saved recipe already contains slot 6 and `hide_footer: true`;
 the explicit flags document the intended layout.
 

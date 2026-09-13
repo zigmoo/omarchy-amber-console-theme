@@ -4,7 +4,7 @@
     "subtitle": "ONE EMITTER / SEVERAL INTENSITIES",
     "title": "Amber Console"
   },
-  "fingerprint": "b20bdb7daa1e0ac50bab5f9d628bd88772919811a8315c137068ef112ff933d4",
+  "fingerprint": "a35a16f0327025a4c94d74efd6d689c95caee9edf4a20d51df75b62264320299",
   "font": {
     "path": "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-Regular.ttf",
     "sha256": "1c680e8cde9fcf8b88a5605ce8d1fb94dd3fb15841f7ca7bf4c55664855e5611"
@@ -20,7 +20,7 @@
     "panels": [
       {
         "fit": "contain",
-        "path": "screenshots/screenshot-2026-09-13_09-12-55.png",
+        "path": "screenshots/screenshot-2026-09-13_10-19-52.png",
         "position": "top-left",
         "rect": [
           24,
@@ -119,12 +119,12 @@
       "width": 1056
     },
     {
-      "bytes": 514795,
+      "bytes": 353571,
       "format": "PNG",
-      "height": 1500,
-      "path": "screenshots/screenshot-2026-09-13_09-12-55.png",
-      "sha256": "b19c5913965db5195e7712e90fd4f48d2efc423f3ba77ca676dbea56ae428e4d",
-      "width": 2046
+      "height": 1115,
+      "path": "screenshots/screenshot-2026-09-13_10-19-52.png",
+      "sha256": "10c43d7b8104ea1dcfdf2798442ae48e13ef8f437d7a8d463d792c7e8b78fcde",
+      "width": 1708
     },
     {
       "bytes": 555668,
@@ -176,10 +176,10 @@
     }
   ],
   "output": {
-    "bytes": 1795930,
+    "bytes": 1809011,
     "file": "../preview.jpg",
     "height": 1800,
-    "sha256": "c9d1ea2a0ce2b393044fa1273fe2685d2dfc4ed07be8213f6eaaa2b6444d5639",
+    "sha256": "6d555aba6b3655c77a2f8da01046fca5e4f2113e640ade3862d946eb7c350e68",
     "width": 3200
   },
   "recipe": {
@@ -197,7 +197,7 @@
     "panels": [
       {
         "fit": "contain",
-        "path": "screenshots/screenshot-2026-09-13_09-12-55.png",
+        "path": "screenshots/screenshot-2026-09-13_10-19-52.png",
         "position": "top-left"
       },
       {
@@ -244,7 +244,7 @@
     "version": 1
   },
   "recipe_file": "showcase_03.json",
-  "recipe_sha256": "db08b7cf72af459b14c1bcd261a5cbeaa6446c5a21b6649ba2b07affe5d9c0a0",
+  "recipe_sha256": "f8016fec9af12269afbcbe854a0ea6c7e79cb6a91cac12c2c9bd4634128257f5",
   "renderer": {
     "imagemagick": "Version: ImageMagick 7.1.2-31 Q16-HDRI x86_64 8309dc92a:20260903 https://imagemagick.org",
     "source_sha256": "2de37f4cac09282bd9ef1263e9b5f93d46d011a6f54dbfe3a0af04d27c131b0b",
