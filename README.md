@@ -4,8 +4,6 @@
 
 ![Amber Console: application screenshots surrounding Cliamp and OpenCode](preview.jpg)
 
-*The wallpaper is [Jesse Palmer's photograph of an IMAX console](https://x.com/RealJessePalmer/status/2080690462269259848), included unchanged.*
-
 ## Install
 
 Tested on **Omarchy 4.0.2**.
