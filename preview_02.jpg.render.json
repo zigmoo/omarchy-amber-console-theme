@@ -4,7 +4,7 @@
     "subtitle": "ONE EMITTER / SEVERAL INTENSITIES",
     "title": "Amber Console"
   },
-  "fingerprint": "9cc7a6e829dd1ff5684e9a6440118404e043072c70eb6dfae3263a1da6f69eb3",
+  "fingerprint": "2a66814c7eb9c91dbe6d5c9145e76da7637ab99d8a546841c5d96f4bd5775494",
   "font": {
     "path": "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-Regular.ttf",
     "sha256": "1c680e8cde9fcf8b88a5605ce8d1fb94dd3fb15841f7ca7bf4c55664855e5611"
@@ -105,12 +105,12 @@
   },
   "inputs": [
     {
-      "bytes": 321140,
-      "format": "JPEG",
-      "height": 1536,
-      "path": "preview_comp_assets/00-jesse-palmer-imax-console.jpg",
-      "sha256": "0010837f760f93d5e5b73e1ba5eae2b2aae1a664a2dd7349f51e2acf1301e15a",
-      "width": 2048
+      "bytes": 103770,
+      "format": "PNG",
+      "height": 650,
+      "path": "preview_comp_assets/screenshot-2026-09-13_08-38-28.png",
+      "sha256": "6d92f3c785f2c43fdb64cecc8448f71ae8572ad7aee58b970b915e4b71c64e41",
+      "width": 1056
     },
     {
       "bytes": 121725,
@@ -162,16 +162,16 @@
     }
   ],
   "output": {
-    "bytes": 1884668,
-    "file": "showcase-fill.jpg",
+    "bytes": 1729341,
+    "file": "preview_02.jpg",
     "height": 1800,
-    "sha256": "b8c3d0b6f9a6f52f0161d230d96ea8badc8f70b267dd374561ff90ac1e61aad0",
+    "sha256": "45f8bd268beb8e3d31f73d883915f1b67e006654ed050e4d4549de73ee514854",
     "width": 3200
   },
   "recipe": {
     "background": {
-      "mode": "fill",
-      "path": "preview_comp_assets/00-jesse-palmer-imax-console.jpg"
+      "mode": "center",
+      "path": "preview_comp_assets/screenshot-2026-09-13_08-38-28.png"
     },
     "canvas": {
       "color": "#100600",
@@ -224,7 +224,7 @@
     "title": "Amber Console",
     "version": 1
   },
-  "recipe_sha256": "e86f25bd81a4ea16c4c4977e497098605d2beb3ea0e63e119a869ba4e306b261",
+  "recipe_sha256": "d6c00e18f3a007ed7f400f30171c901ad4045ff341cf847d912a17ebb85f099d",
   "renderer": {
     "imagemagick": "Version: ImageMagick 7.1.2-31 Q16-HDRI x86_64 8309dc92a:20260903 https://imagemagick.org",
     "source_sha256": "c45384bdd6929c89a0c1c799d4983b72ff7c0aae603a10698e8fbf7addbc3ad0",

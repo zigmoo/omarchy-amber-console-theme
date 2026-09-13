@@ -1,5 +1,34 @@
 # Amber Console composite recipes
 
+## Preview source assets and current renders
+
+All nine source images are preserved in `preview_comp_assets/`: the IMAX
+photograph, six application screenshots, and the Cliamp / OpenCode screenshots.
+The three recipes use these repository-relative paths, so no personal Pictures
+directory is needed to regenerate a preview.
+
+From the theme repository root, run:
+
+```bash
+theme_composite_tool render showcase.json --output screenshots/showcase-center.jpg --replace --json
+theme_composite_tool render showcase.json --output screenshots/showcase-fill.jpg --background-mode fill --replace --json
+theme_composite_tool render showcase_02.json --output preview_02.jpg --replace --json
+theme_composite_tool render showcase_03.json --bottom-center preview_comp_assets/screenshot-2026-09-13_08-48-32.png --no-footer --output preview_03.jpg --replace --json
+theme_composite_tool render showcase_03.json --bottom-center preview_comp_assets/screenshot-2026-09-13_08-48-32.png --no-footer --output preview03.jpg --replace --json
+```
+
+`preview03.jpg` is the latest composition: Cliamp in the center and OpenCode
+in the expanded lower-center sector, without the footer. `preview_03.jpg`
+is retained as the earlier filename for the same composition. `preview_02.jpg`
+has Cliamp alone in the center, with the footer. The original `preview.jpg`
+is preserved; it predates the reusable recipe and is not regenerated here.
+
+The saved `showcase_03.json` includes slot 6 and `hide_footer: true`; the explicit
+flags above also document the intended layout. `theme_composite_tool -h` shows
+the numbered layouts. Each render writes a `.render.json` provenance sidecar.
+
+## Original examples
+
 Create a repeatable theme showcase with `theme_composite_tool`. This example uses the six screenshots in the Amber Console workspace and Jesse Palmer's IMAX console photograph. Choose clock positions for the screenshots, then choose whether the background fills the canvas or remains completely visible in its center.
 
 The [editable recipe](https://framemoowork.local:8443/knowledge?item=dGhlbWVzL29tYXJjaHktYW1iZXItY29uc29sZS10aGVtZS9zaG93Y2FzZS5qc29u&view=document) lives beside the theme README as `showcase.json`. Edit it in vi or Revelator, then render it from the theme directory:

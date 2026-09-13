@@ -4,7 +4,7 @@
     "subtitle": "ONE EMITTER / SEVERAL INTENSITIES",
     "title": "Amber Console"
   },
-  "fingerprint": "9cc7a6e829dd1ff5684e9a6440118404e043072c70eb6dfae3263a1da6f69eb3",
+  "fingerprint": "2fcb10bd20296954b3c4c162125c84fa061439dfb276033937e482b8dff529fb",
   "font": {
     "path": "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-Regular.ttf",
     "sha256": "1c680e8cde9fcf8b88a5605ce8d1fb94dd3fb15841f7ca7bf4c55664855e5611"
@@ -14,14 +14,9 @@
       944,
       438,
       1312,
-      1098
+      789
     ],
-    "footer_rect": [
-      944,
-      1560,
-      1312,
-      108
-    ],
+    "footer_rect": null,
     "panels": [
       {
         "fit": "contain",
@@ -88,6 +83,17 @@
           896,
           568
         ]
+      },
+      {
+        "fit": "contain",
+        "path": "preview_comp_assets/screenshot-2026-09-13_08-48-32.png",
+        "position": "bottom",
+        "rect": [
+          944,
+          1251,
+          1312,
+          525
+        ]
       }
     ],
     "subtitle_rect": [
@@ -105,12 +111,12 @@
   },
   "inputs": [
     {
-      "bytes": 321140,
-      "format": "JPEG",
-      "height": 1536,
-      "path": "preview_comp_assets/00-jesse-palmer-imax-console.jpg",
-      "sha256": "0010837f760f93d5e5b73e1ba5eae2b2aae1a664a2dd7349f51e2acf1301e15a",
-      "width": 2048
+      "bytes": 103770,
+      "format": "PNG",
+      "height": 650,
+      "path": "preview_comp_assets/screenshot-2026-09-13_08-38-28.png",
+      "sha256": "6d92f3c785f2c43fdb64cecc8448f71ae8572ad7aee58b970b915e4b71c64e41",
+      "width": 1056
     },
     {
       "bytes": 121725,
@@ -159,19 +165,27 @@
       "path": "preview_comp_assets/sigye.png",
       "sha256": "db81305ce3b42300896dfec58213413fed5f60b53011acca848fcfd5cbd1f35e",
       "width": 2560
+    },
+    {
+      "bytes": 112797,
+      "format": "PNG",
+      "height": 1022,
+      "path": "preview_comp_assets/screenshot-2026-09-13_08-48-32.png",
+      "sha256": "b750ed2047cd9b7567edbdf551ea8e527c356b232bdcac94bc31d5dd244099c8",
+      "width": 1968
     }
   ],
   "output": {
-    "bytes": 1884668,
-    "file": "showcase-fill.jpg",
+    "bytes": 1776323,
+    "file": "preview03.jpg",
     "height": 1800,
-    "sha256": "b8c3d0b6f9a6f52f0161d230d96ea8badc8f70b267dd374561ff90ac1e61aad0",
+    "sha256": "a538d2c080b2ddc2387b1a299182975652a81a81dcf78add43ea94ce2552c444",
     "width": 3200
   },
   "recipe": {
     "background": {
-      "mode": "fill",
-      "path": "preview_comp_assets/00-jesse-palmer-imax-console.jpg"
+      "mode": "center",
+      "path": "preview_comp_assets/screenshot-2026-09-13_08-38-28.png"
     },
     "canvas": {
       "color": "#100600",
@@ -179,7 +193,7 @@
       "width": 3200
     },
     "footer": "OMARCHY THEME",
-    "hide_footer": false,
+    "hide_footer": true,
     "panels": [
       {
         "fit": "contain",
@@ -210,6 +224,11 @@
         "fit": "contain",
         "path": "preview_comp_assets/sigye.png",
         "position": "bottom-right"
+      },
+      {
+        "fit": "contain",
+        "path": "preview_comp_assets/screenshot-2026-09-13_08-48-32.png",
+        "position": "bottom"
       }
     ],
     "style": {
@@ -224,7 +243,7 @@
     "title": "Amber Console",
     "version": 1
   },
-  "recipe_sha256": "e86f25bd81a4ea16c4c4977e497098605d2beb3ea0e63e119a869ba4e306b261",
+  "recipe_sha256": "7a72777b677903aabc2d7d1396e46e11f5d4eb96a0e7f454318258919eea4530",
   "renderer": {
     "imagemagick": "Version: ImageMagick 7.1.2-31 Q16-HDRI x86_64 8309dc92a:20260903 https://imagemagick.org",
     "source_sha256": "c45384bdd6929c89a0c1c799d4983b72ff7c0aae603a10698e8fbf7addbc3ad0",
