@@ -2,8 +2,8 @@
 
 ## Preview source assets and current renders
 
-All nine source images are preserved in `preview_comp_assets/`: the IMAX
-photograph, six application screenshots, and the Cliamp / OpenCode screenshots.
+All source images are preserved in `preview_comp_assets/`: the IMAX
+photograph, application screenshots, and the Cliamp / OpenCode screenshots.
 The three recipes use these repository-relative paths, so no personal Pictures
 directory is needed to regenerate a preview.
 
@@ -22,6 +22,9 @@ in the expanded lower-center sector, without the footer. `preview_03.jpg`
 is retained as the earlier filename for the same composition. `preview_02.jpg`
 has Cliamp alone in the center, with the footer. The original `preview.jpg`
 is preserved; it predates the reusable recipe and is not regenerated here.
+
+The latest composition uses `screenshot-2026-09-13_09-12-55.png` in
+top-left sector 10; the older recipes retain their original `fastfetch.png`.
 
 The saved `showcase_03.json` includes slot 6 and `hide_footer: true`; the explicit
 flags above also document the intended layout. `theme_composite_tool -h` shows

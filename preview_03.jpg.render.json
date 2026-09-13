@@ -4,7 +4,7 @@
     "subtitle": "ONE EMITTER / SEVERAL INTENSITIES",
     "title": "Amber Console"
   },
-  "fingerprint": "2fcb10bd20296954b3c4c162125c84fa061439dfb276033937e482b8dff529fb",
+  "fingerprint": "950948b89ea6a5f8e61a67d54aa5734bdb0ce17f34b7b67f3343967956e91fbd",
   "font": {
     "path": "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-Regular.ttf",
     "sha256": "1c680e8cde9fcf8b88a5605ce8d1fb94dd3fb15841f7ca7bf4c55664855e5611"
@@ -20,7 +20,7 @@
     "panels": [
       {
         "fit": "contain",
-        "path": "preview_comp_assets/fastfetch.png",
+        "path": "preview_comp_assets/screenshot-2026-09-13_09-12-55.png",
         "position": "top-left",
         "rect": [
           24,
@@ -119,12 +119,12 @@
       "width": 1056
     },
     {
-      "bytes": 121725,
+      "bytes": 514795,
       "format": "PNG",
-      "height": 1190,
-      "path": "preview_comp_assets/fastfetch.png",
-      "sha256": "9c54d7090b55d9bb4fad9ae9fd87bbab8e3a2fa852feb082810eb3fadbc5aa5c",
-      "width": 1920
+      "height": 1500,
+      "path": "preview_comp_assets/screenshot-2026-09-13_09-12-55.png",
+      "sha256": "b19c5913965db5195e7712e90fd4f48d2efc423f3ba77ca676dbea56ae428e4d",
+      "width": 2046
     },
     {
       "bytes": 555668,
@@ -176,10 +176,10 @@
     }
   ],
   "output": {
-    "bytes": 1776323,
+    "bytes": 1795930,
     "file": "preview_03.jpg",
     "height": 1800,
-    "sha256": "a538d2c080b2ddc2387b1a299182975652a81a81dcf78add43ea94ce2552c444",
+    "sha256": "c9d1ea2a0ce2b393044fa1273fe2685d2dfc4ed07be8213f6eaaa2b6444d5639",
     "width": 3200
   },
   "recipe": {
@@ -197,7 +197,7 @@
     "panels": [
       {
         "fit": "contain",
-        "path": "preview_comp_assets/fastfetch.png",
+        "path": "preview_comp_assets/screenshot-2026-09-13_09-12-55.png",
         "position": "top-left"
       },
       {
@@ -243,7 +243,7 @@
     "title": "Amber Console",
     "version": 1
   },
-  "recipe_sha256": "7a72777b677903aabc2d7d1396e46e11f5d4eb96a0e7f454318258919eea4530",
+  "recipe_sha256": "4566278fcc5d0260a50b24d07d097af600bb9b316056c27bf350ade01eb8b1ce",
   "renderer": {
     "imagemagick": "Version: ImageMagick 7.1.2-31 Q16-HDRI x86_64 8309dc92a:20260903 https://imagemagick.org",
     "source_sha256": "c45384bdd6929c89a0c1c799d4983b72ff7c0aae603a10698e8fbf7addbc3ad0",
