@@ -4,8 +4,6 @@
 
 ![Amber Console: application screenshots surrounding Cliamp and OpenCode](preview.jpg)
 
-*The wallpaper is [Jesse Palmer's photograph of an IMAX console](https://x.com/RealJessePalmer/status/2080690462269259848), included unchanged.*
-
 ## Install
 
 Tested on **Omarchy 4.0.2**.
@@ -37,10 +35,6 @@ AmberConsole takes its cues from hardware that could vary the brightness of a si
 
 The colors come from [AmberConsole's neon tokens](https://github.com/DutchDiederik/AmberConsole/blob/e616e1c04aaf65d67e485559745421c8226ec4b3/src/tokens/colors.css). This is the neon profile; AmberConsole's separate P3 amber CRT profile has a different ramp.
 
-Terminal palette preview
-
-![Live Omarchy terminal showing the single-emitter ANSI palette and inverse selections](preview_comp_assets/screenshots/terminal.png)
-
 ## What the theme changes
 
 - `colors.toml` supplies the palette for Omarchy's generated application themes.
@@ -59,4 +53,4 @@ This is a small working palette and surface adaptation. Websites, images and ind
 - **[Bjarne Øverli](https://github.com/bjarneo/omarchy-evergreen-theme)** and the Omarchy theme community — the straightforward repository and installation conventions.
 - [@DHH](https://x.com/dhh) for the amazing [@OmarchyLinux](https://x.com/OmarchyLinux)!!
 
-The upstream **BSD-3-Clause** notice is retained in [LICENSE](LICENSE) for the theme. The IMAX photograph retains its original rights and is not covered by that license. The current `preview.jpg` montage contains application screenshots; the original photo-based examples are preserved in `preview_comp_assets`.
+The upstream **BSD-3-Clause** notice is retained in [LICENSE](LICENSE) for the theme. The IMAX photograph retains its original rights and is not covered by that license. The current `preview.jpg` montage contains application screenshots. Preview source assets, recipes and photo-based examples are preserved on the `theme_comp_tooling_dil-2723` branch.
