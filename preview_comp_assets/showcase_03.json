@@ -1,7 +1,7 @@
 {
   "background": {
     "mode": "center",
-    "path": "preview_comp_assets/00-jesse-palmer-imax-console.jpg"
+    "path": "screenshots/screenshot-2026-09-13_08-38-28.png"
   },
   "canvas": {
     "color": "#100600",
@@ -9,36 +9,42 @@
     "width": 3200
   },
   "footer": "OMARCHY THEME",
+  "hide_footer": true,
   "panels": [
     {
       "fit": "contain",
-      "path": "preview_comp_assets/fastfetch.png",
+      "path": "screenshots/screenshot-2026-09-13_09-12-55.png",
       "position": "top-left"
     },
     {
       "fit": "contain",
-      "path": "preview_comp_assets/neovim-eternal-history.png",
+      "path": "screenshots/neovim-eternal-history.png",
       "position": "left"
     },
     {
       "fit": "contain",
-      "path": "preview_comp_assets/yazi-photo.png",
+      "path": "screenshots/yazi-photo.png",
       "position": "bottom-left"
     },
     {
       "fit": "contain",
-      "path": "preview_comp_assets/btop.png",
+      "path": "screenshots/btop.png",
       "position": "top-right"
     },
     {
       "fit": "contain",
-      "path": "preview_comp_assets/files.png",
+      "path": "screenshots/files.png",
       "position": "right"
     },
     {
       "fit": "contain",
-      "path": "preview_comp_assets/sigye.png",
+      "path": "screenshots/sigye.png",
       "position": "bottom-right"
+    },
+    {
+      "fit": "contain",
+      "path": "screenshots/screenshot-2026-09-13_08-48-32.png",
+      "position": "bottom"
     }
   ],
   "style": {

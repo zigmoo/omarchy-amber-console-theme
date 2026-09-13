@@ -4,7 +4,7 @@
     "subtitle": "ONE EMITTER / SEVERAL INTENSITIES",
     "title": "Amber Console"
   },
-  "fingerprint": "9cc7a6e829dd1ff5684e9a6440118404e043072c70eb6dfae3263a1da6f69eb3",
+  "fingerprint": "430ca186b42ac63dba35f7762171bfeff7f6dc8e392a056aa255717a36a88cd9",
   "font": {
     "path": "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-Regular.ttf",
     "sha256": "1c680e8cde9fcf8b88a5605ce8d1fb94dd3fb15841f7ca7bf4c55664855e5611"
@@ -25,7 +25,7 @@
     "panels": [
       {
         "fit": "contain",
-        "path": "preview_comp_assets/fastfetch.png",
+        "path": "screenshots/fastfetch.png",
         "position": "top-left",
         "rect": [
           24,
@@ -36,7 +36,7 @@
       },
       {
         "fit": "contain",
-        "path": "preview_comp_assets/neovim-eternal-history.png",
+        "path": "screenshots/neovim-eternal-history.png",
         "position": "left",
         "rect": [
           24,
@@ -47,7 +47,7 @@
       },
       {
         "fit": "contain",
-        "path": "preview_comp_assets/yazi-photo.png",
+        "path": "screenshots/yazi-photo.png",
         "position": "bottom-left",
         "rect": [
           24,
@@ -58,7 +58,7 @@
       },
       {
         "fit": "contain",
-        "path": "preview_comp_assets/btop.png",
+        "path": "screenshots/btop.png",
         "position": "top-right",
         "rect": [
           2280,
@@ -69,7 +69,7 @@
       },
       {
         "fit": "contain",
-        "path": "preview_comp_assets/files.png",
+        "path": "screenshots/files.png",
         "position": "right",
         "rect": [
           2280,
@@ -80,7 +80,7 @@
       },
       {
         "fit": "contain",
-        "path": "preview_comp_assets/sigye.png",
+        "path": "screenshots/sigye.png",
         "position": "bottom-right",
         "rect": [
           2280,
@@ -108,7 +108,7 @@
       "bytes": 321140,
       "format": "JPEG",
       "height": 1536,
-      "path": "preview_comp_assets/00-jesse-palmer-imax-console.jpg",
+      "path": "00-jesse-palmer-imax-console.jpg",
       "sha256": "0010837f760f93d5e5b73e1ba5eae2b2aae1a664a2dd7349f51e2acf1301e15a",
       "width": 2048
     },
@@ -116,7 +116,7 @@
       "bytes": 121725,
       "format": "PNG",
       "height": 1190,
-      "path": "preview_comp_assets/fastfetch.png",
+      "path": "screenshots/fastfetch.png",
       "sha256": "9c54d7090b55d9bb4fad9ae9fd87bbab8e3a2fa852feb082810eb3fadbc5aa5c",
       "width": 1920
     },
@@ -124,7 +124,7 @@
       "bytes": 555668,
       "format": "PNG",
       "height": 1073,
-      "path": "preview_comp_assets/neovim-eternal-history.png",
+      "path": "screenshots/neovim-eternal-history.png",
       "sha256": "674a8cec648e0d309ebe6f2f406ce8b0a6fd133c8ae3d5d3fa4cc3bec0195384",
       "width": 1560
     },
@@ -132,7 +132,7 @@
       "bytes": 901015,
       "format": "PNG",
       "height": 1410,
-      "path": "preview_comp_assets/yazi-photo.png",
+      "path": "screenshots/yazi-photo.png",
       "sha256": "c51ac4e942190e694fc4cb756a41e68be2d5551b0027f1dd72f7b1885fcca771",
       "width": 2182
     },
@@ -140,7 +140,7 @@
       "bytes": 1297966,
       "format": "PNG",
       "height": 1600,
-      "path": "preview_comp_assets/btop.png",
+      "path": "screenshots/btop.png",
       "sha256": "85d888a47820606f7f8a641e9e2316bd330fed4cc5a33a603505cf7d146ffeba",
       "width": 2560
     },
@@ -148,7 +148,7 @@
       "bytes": 942207,
       "format": "PNG",
       "height": 1600,
-      "path": "preview_comp_assets/files.png",
+      "path": "screenshots/files.png",
       "sha256": "4001de781d58a9858fd4103b0fcbfc5524840bf61f7f5c77cfb73bd151d92698",
       "width": 2560
     },
@@ -156,22 +156,22 @@
       "bytes": 1242550,
       "format": "PNG",
       "height": 1600,
-      "path": "preview_comp_assets/sigye.png",
+      "path": "screenshots/sigye.png",
       "sha256": "db81305ce3b42300896dfec58213413fed5f60b53011acca848fcfd5cbd1f35e",
       "width": 2560
     }
   ],
   "output": {
-    "bytes": 1884668,
-    "file": "showcase-fill.jpg",
+    "bytes": 1743261,
+    "file": "showcase-center.jpg",
     "height": 1800,
-    "sha256": "b8c3d0b6f9a6f52f0161d230d96ea8badc8f70b267dd374561ff90ac1e61aad0",
+    "sha256": "70d532f8d4e454b02a2abeacbc50bb58e45ea17b764577a6c20e58fe715be208",
     "width": 3200
   },
   "recipe": {
     "background": {
-      "mode": "fill",
-      "path": "preview_comp_assets/00-jesse-palmer-imax-console.jpg"
+      "mode": "center",
+      "path": "00-jesse-palmer-imax-console.jpg"
     },
     "canvas": {
       "color": "#100600",
@@ -183,32 +183,32 @@
     "panels": [
       {
         "fit": "contain",
-        "path": "preview_comp_assets/fastfetch.png",
+        "path": "screenshots/fastfetch.png",
         "position": "top-left"
       },
       {
         "fit": "contain",
-        "path": "preview_comp_assets/neovim-eternal-history.png",
+        "path": "screenshots/neovim-eternal-history.png",
         "position": "left"
       },
       {
         "fit": "contain",
-        "path": "preview_comp_assets/yazi-photo.png",
+        "path": "screenshots/yazi-photo.png",
         "position": "bottom-left"
       },
       {
         "fit": "contain",
-        "path": "preview_comp_assets/btop.png",
+        "path": "screenshots/btop.png",
         "position": "top-right"
       },
       {
         "fit": "contain",
-        "path": "preview_comp_assets/files.png",
+        "path": "screenshots/files.png",
         "position": "right"
       },
       {
         "fit": "contain",
-        "path": "preview_comp_assets/sigye.png",
+        "path": "screenshots/sigye.png",
         "position": "bottom-right"
       }
     ],
@@ -224,12 +224,13 @@
     "title": "Amber Console",
     "version": 1
   },
-  "recipe_sha256": "e86f25bd81a4ea16c4c4977e497098605d2beb3ea0e63e119a869ba4e306b261",
+  "recipe_file": "showcase.json",
+  "recipe_sha256": "bd780abc1d9daf713f358c0545db85ea6ddcdb4098834f0307e3ddcb1b154d1f",
   "renderer": {
     "imagemagick": "Version: ImageMagick 7.1.2-31 Q16-HDRI x86_64 8309dc92a:20260903 https://imagemagick.org",
-    "source_sha256": "c45384bdd6929c89a0c1c799d4983b72ff7c0aae603a10698e8fbf7addbc3ad0",
+    "source_sha256": "2de37f4cac09282bd9ef1263e9b5f93d46d011a6f54dbfe3a0af04d27c131b0b",
     "tool": "theme_composite_tool",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   "schema": "theme-composite-render.v1"
 }

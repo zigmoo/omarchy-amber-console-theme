@@ -4,7 +4,7 @@
     "subtitle": "ONE EMITTER / SEVERAL INTENSITIES",
     "title": "Amber Console"
   },
-  "fingerprint": "ccdcaff3514fc644715a3eaf110c28119be072c6ac227c6c85f7f02b3a7862ca",
+  "fingerprint": "b20bdb7daa1e0ac50bab5f9d628bd88772919811a8315c137068ef112ff933d4",
   "font": {
     "path": "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-Regular.ttf",
     "sha256": "1c680e8cde9fcf8b88a5605ce8d1fb94dd3fb15841f7ca7bf4c55664855e5611"
@@ -14,18 +14,13 @@
       944,
       438,
       1312,
-      1098
+      789
     ],
-    "footer_rect": [
-      944,
-      1560,
-      1312,
-      108
-    ],
+    "footer_rect": null,
     "panels": [
       {
         "fit": "contain",
-        "path": "preview_comp_assets/fastfetch.png",
+        "path": "screenshots/screenshot-2026-09-13_09-12-55.png",
         "position": "top-left",
         "rect": [
           24,
@@ -36,7 +31,7 @@
       },
       {
         "fit": "contain",
-        "path": "preview_comp_assets/neovim-eternal-history.png",
+        "path": "screenshots/neovim-eternal-history.png",
         "position": "left",
         "rect": [
           24,
@@ -47,7 +42,7 @@
       },
       {
         "fit": "contain",
-        "path": "preview_comp_assets/yazi-photo.png",
+        "path": "screenshots/yazi-photo.png",
         "position": "bottom-left",
         "rect": [
           24,
@@ -58,7 +53,7 @@
       },
       {
         "fit": "contain",
-        "path": "preview_comp_assets/btop.png",
+        "path": "screenshots/btop.png",
         "position": "top-right",
         "rect": [
           2280,
@@ -69,7 +64,7 @@
       },
       {
         "fit": "contain",
-        "path": "preview_comp_assets/files.png",
+        "path": "screenshots/files.png",
         "position": "right",
         "rect": [
           2280,
@@ -80,13 +75,24 @@
       },
       {
         "fit": "contain",
-        "path": "preview_comp_assets/sigye.png",
+        "path": "screenshots/sigye.png",
         "position": "bottom-right",
         "rect": [
           2280,
           1208,
           896,
           568
+        ]
+      },
+      {
+        "fit": "contain",
+        "path": "screenshots/screenshot-2026-09-13_08-48-32.png",
+        "position": "bottom",
+        "rect": [
+          944,
+          1251,
+          1312,
+          525
         ]
       }
     ],
@@ -105,26 +111,26 @@
   },
   "inputs": [
     {
-      "bytes": 321140,
-      "format": "JPEG",
-      "height": 1536,
-      "path": "preview_comp_assets/00-jesse-palmer-imax-console.jpg",
-      "sha256": "0010837f760f93d5e5b73e1ba5eae2b2aae1a664a2dd7349f51e2acf1301e15a",
-      "width": 2048
+      "bytes": 103770,
+      "format": "PNG",
+      "height": 650,
+      "path": "screenshots/screenshot-2026-09-13_08-38-28.png",
+      "sha256": "6d92f3c785f2c43fdb64cecc8448f71ae8572ad7aee58b970b915e4b71c64e41",
+      "width": 1056
     },
     {
-      "bytes": 121725,
+      "bytes": 514795,
       "format": "PNG",
-      "height": 1190,
-      "path": "preview_comp_assets/fastfetch.png",
-      "sha256": "9c54d7090b55d9bb4fad9ae9fd87bbab8e3a2fa852feb082810eb3fadbc5aa5c",
-      "width": 1920
+      "height": 1500,
+      "path": "screenshots/screenshot-2026-09-13_09-12-55.png",
+      "sha256": "b19c5913965db5195e7712e90fd4f48d2efc423f3ba77ca676dbea56ae428e4d",
+      "width": 2046
     },
     {
       "bytes": 555668,
       "format": "PNG",
       "height": 1073,
-      "path": "preview_comp_assets/neovim-eternal-history.png",
+      "path": "screenshots/neovim-eternal-history.png",
       "sha256": "674a8cec648e0d309ebe6f2f406ce8b0a6fd133c8ae3d5d3fa4cc3bec0195384",
       "width": 1560
     },
@@ -132,7 +138,7 @@
       "bytes": 901015,
       "format": "PNG",
       "height": 1410,
-      "path": "preview_comp_assets/yazi-photo.png",
+      "path": "screenshots/yazi-photo.png",
       "sha256": "c51ac4e942190e694fc4cb756a41e68be2d5551b0027f1dd72f7b1885fcca771",
       "width": 2182
     },
@@ -140,7 +146,7 @@
       "bytes": 1297966,
       "format": "PNG",
       "height": 1600,
-      "path": "preview_comp_assets/btop.png",
+      "path": "screenshots/btop.png",
       "sha256": "85d888a47820606f7f8a641e9e2316bd330fed4cc5a33a603505cf7d146ffeba",
       "width": 2560
     },
@@ -148,7 +154,7 @@
       "bytes": 942207,
       "format": "PNG",
       "height": 1600,
-      "path": "preview_comp_assets/files.png",
+      "path": "screenshots/files.png",
       "sha256": "4001de781d58a9858fd4103b0fcbfc5524840bf61f7f5c77cfb73bd151d92698",
       "width": 2560
     },
@@ -156,22 +162,30 @@
       "bytes": 1242550,
       "format": "PNG",
       "height": 1600,
-      "path": "preview_comp_assets/sigye.png",
+      "path": "screenshots/sigye.png",
       "sha256": "db81305ce3b42300896dfec58213413fed5f60b53011acca848fcfd5cbd1f35e",
       "width": 2560
+    },
+    {
+      "bytes": 112797,
+      "format": "PNG",
+      "height": 1022,
+      "path": "screenshots/screenshot-2026-09-13_08-48-32.png",
+      "sha256": "b750ed2047cd9b7567edbdf551ea8e527c356b232bdcac94bc31d5dd244099c8",
+      "width": 1968
     }
   ],
   "output": {
-    "bytes": 1743261,
-    "file": "showcase-center.jpg",
+    "bytes": 1795930,
+    "file": "../preview.jpg",
     "height": 1800,
-    "sha256": "70d532f8d4e454b02a2abeacbc50bb58e45ea17b764577a6c20e58fe715be208",
+    "sha256": "c9d1ea2a0ce2b393044fa1273fe2685d2dfc4ed07be8213f6eaaa2b6444d5639",
     "width": 3200
   },
   "recipe": {
     "background": {
       "mode": "center",
-      "path": "preview_comp_assets/00-jesse-palmer-imax-console.jpg"
+      "path": "screenshots/screenshot-2026-09-13_08-38-28.png"
     },
     "canvas": {
       "color": "#100600",
@@ -179,37 +193,42 @@
       "width": 3200
     },
     "footer": "OMARCHY THEME",
-    "hide_footer": false,
+    "hide_footer": true,
     "panels": [
       {
         "fit": "contain",
-        "path": "preview_comp_assets/fastfetch.png",
+        "path": "screenshots/screenshot-2026-09-13_09-12-55.png",
         "position": "top-left"
       },
       {
         "fit": "contain",
-        "path": "preview_comp_assets/neovim-eternal-history.png",
+        "path": "screenshots/neovim-eternal-history.png",
         "position": "left"
       },
       {
         "fit": "contain",
-        "path": "preview_comp_assets/yazi-photo.png",
+        "path": "screenshots/yazi-photo.png",
         "position": "bottom-left"
       },
       {
         "fit": "contain",
-        "path": "preview_comp_assets/btop.png",
+        "path": "screenshots/btop.png",
         "position": "top-right"
       },
       {
         "fit": "contain",
-        "path": "preview_comp_assets/files.png",
+        "path": "screenshots/files.png",
         "position": "right"
       },
       {
         "fit": "contain",
-        "path": "preview_comp_assets/sigye.png",
+        "path": "screenshots/sigye.png",
         "position": "bottom-right"
+      },
+      {
+        "fit": "contain",
+        "path": "screenshots/screenshot-2026-09-13_08-48-32.png",
+        "position": "bottom"
       }
     ],
     "style": {
@@ -224,12 +243,13 @@
     "title": "Amber Console",
     "version": 1
   },
-  "recipe_sha256": "e86f25bd81a4ea16c4c4977e497098605d2beb3ea0e63e119a869ba4e306b261",
+  "recipe_file": "showcase_03.json",
+  "recipe_sha256": "db08b7cf72af459b14c1bcd261a5cbeaa6446c5a21b6649ba2b07affe5d9c0a0",
   "renderer": {
     "imagemagick": "Version: ImageMagick 7.1.2-31 Q16-HDRI x86_64 8309dc92a:20260903 https://imagemagick.org",
-    "source_sha256": "c45384bdd6929c89a0c1c799d4983b72ff7c0aae603a10698e8fbf7addbc3ad0",
+    "source_sha256": "2de37f4cac09282bd9ef1263e9b5f93d46d011a6f54dbfe3a0af04d27c131b0b",
     "tool": "theme_composite_tool",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   "schema": "theme-composite-render.v1"
 }

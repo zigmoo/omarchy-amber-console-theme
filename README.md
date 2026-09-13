@@ -2,7 +2,7 @@
 
 **This Omarchy theme is a tribute to [DutchDiederik](https://github.com/DutchDiederik)'s excellent [AmberConsole](https://github.com/DutchDiederik/AmberConsole) html/css framework.**
 
-![Amber Console: six application screenshots around the IMAX console photograph](preview.jpg)
+![Amber Console: application screenshots surrounding Cliamp and OpenCode](preview.jpg)
 
 *The wallpaper is [Jesse Palmer's photograph of an IMAX console](https://x.com/RealJessePalmer/status/2080690462269259848), included unchanged.*
 
@@ -39,7 +39,7 @@ The colors come from [AmberConsole's neon tokens](https://github.com/DutchDieder
 
 Terminal palette preview
 
-![Live Omarchy terminal showing the single-emitter ANSI palette and inverse selections](screenshots/terminal.png)
+![Live Omarchy terminal showing the single-emitter ANSI palette and inverse selections](preview_comp_assets/screenshots/terminal.png)
 
 ## What the theme changes
 
@@ -59,4 +59,4 @@ This is a small working palette and surface adaptation. Websites, images and ind
 - **[Bjarne Øverli](https://github.com/bjarneo/omarchy-evergreen-theme)** and the Omarchy theme community — the straightforward repository and installation conventions.
 - [@DHH](https://x.com/dhh) for the amazing [@OmarchyLinux](https://x.com/OmarchyLinux)!!
 
-The upstream **BSD-3-Clause** notice is retained in [LICENSE](LICENSE) for the theme. The IMAX photograph retains its original rights and is not covered by that license. The `preview.jpg` montage combines it with screenshots of the theme.
+The upstream **BSD-3-Clause** notice is retained in [LICENSE](LICENSE) for the theme. The IMAX photograph retains its original rights and is not covered by that license. The current `preview.jpg` montage contains application screenshots; the original photo-based examples are preserved in `preview_comp_assets`.
